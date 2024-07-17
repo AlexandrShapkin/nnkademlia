@@ -1,3 +1,3 @@
-module github.com/alexandrshapkin/nnkademlia
+module github.com/AlexandrShapkin/nnkademlia
 
 go 1.22.3
